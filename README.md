@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingLiakos
 - 👀 I’m interested in Coding and Making Money 
-- 🌱 I’m currently learning Html, Css, Java and Github
+- 🌱 I’m currently learning Html, Css, C# and Github
 - 💞️ I’m looking to collaborate with everyone if possible because i am a new to this industry.
 - 📫 How to reach me you already doing that :)
 
